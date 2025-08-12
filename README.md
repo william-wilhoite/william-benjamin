@@ -3,7 +3,7 @@
 I'm currently training with [Nashville Software School](https://github.com/NSS-Full-Time-Data-Analytics-16) to become a Data Analyst.
 
 > <sub> [ Profile Image ](https://unsplash.com/photos/breakfast-croissants-jam-butter-and-oranges-on-a-tray-QRVNdlF4C6M)
->  curtesy of
+>  courtesy of
 > [Raymond Petrick](https://unsplash.com/@raymondpetrik)
 > via [Unsplash](https://unsplash.com/)- scaled using [GIMP](https://www.gimp.org)
 </sub>
