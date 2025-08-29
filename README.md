@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm William Wilhoite</h1>
 <h3 align="center">Data-driven thinker looking to unlock insights and drive impact</h3>
 
-I'm just finished training (August 2025) with [Nashville Software School](https://github.com/NSS-Full-Time-Data-Analytics-16) to become a Data Analyst.
+I've just finished training (August 2025) with [Nashville Software School](https://github.com/NSS-Full-Time-Data-Analytics-16) to become a Data Analyst.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
